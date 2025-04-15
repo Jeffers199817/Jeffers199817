@@ -1,72 +1,90 @@
-<h1 align="center">Hi 👋, I'm Jefferson Alquinga</h1>
-<h3 align="center">Software Engineer from Ecuador 🇪🇨</h3>
+<!-- Idioma: English (default) -->
+<h1 align="center" style="font-size:2.5em;">Hi 👋, I'm Jefferson Alquinga</h1>
+<h3 align="center" style="font-size:1.5em;">Professional Software Engineer from Ecuador 🇪🇨</h3>
+
+<p align="center">
+  <a href="#english">🇬🇧 English</a> | <a href="#español">🇪🇸 Español</a>
+</p>
 
 <br>
 
 <p align="right">
-  <h3>Profile Views :-</h3>
   <img src="https://komarev.com/ghpvc/?username=jeffers199817&label=Profile%20views&color=0e75b6&style=flat" alt="jeffers199817" />
 </p>
 
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jeffers199817" /></p>
 
-- 🎓 I'm currently completing my **Software Engineering degree** at Escuela Politécnica Nacional (2018–2024)
+- 🎓 I am a **Software Engineer** graduated from Escuela Politécnica Nacional (2018–2024)
 
-- 💻 I specialize in **backend development** using **Java**, **Spring Boot**, **Spring Cloud**, **Spring Security**, and **Microservices architecture**
+- 💻 Specialized in **Java + Spring Boot**, **Microservices**, and **Secure API Development**
 
-- 🧪 I work with **JUnit**, **Mockito**, **REST APIs**, and databases like **MySQL** and **PostgreSQL**
+- 🐳 Use of **Docker**, **GitHub**, **REST APIs**, and relational databases like **MySQL** & **PostgreSQL**
 
-- 🐳 I use **Docker** for containerization and **Git/GitHub** for version control
+- 🌐 Building scalable solutions with **Spring Cloud**, **Spring Security**, and **Angular**
 
-- 🧠 I'm always learning — currently expanding in **Angular**, **TypeScript**, and DevOps tools
+- 🤝 Passionate about sharing knowledge, mentoring, and delivering clean, maintainable code
 
-- 📫 Reach me at: **jefferson.alquinga1998@gmail.com**
+- 📫 Contact me: **jefferson.alquinga1998@gmail.com**
 
-- ⚡ Fun fact: I'm passionate about teaching, mentoring, and helping others get into tech 🤝
+---
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/jefferson-alquinga-27669228a/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/jefferson-alquinga-27669228a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Jeffers199817" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  <a href="https://github.com/Jeffers199817" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
-<br>
+---
 
-<h3>Stats:</h3>
+## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffers199817&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Jeffers199817 GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeffers199817&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffers199817&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeffers199817&layout=compact&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffers199817&theme=dark&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffers199817&theme=radical" />
+</p>
+
+---
+
+## <a name="español">🇪🇸 Versión en Español</a>
+
+<h1 align="center" style="font-size:2.5em;">Hola 👋, Soy Jefferson Alquinga</h1>
+<h3 align="center" style="font-size:1.5em;">Ingeniero de Software Profesional de Ecuador 🇪🇨</h3>
+
+- 🎓 Graduado en Ingeniería de Software de la Escuela Politécnica Nacional (2018–2024)
+
+- 💻 Especializado en **Java + Spring Boot**, **Microservicios**, y **APIs Seguras**
+
+- 🐳 Uso de **Docker**, **GitHub**, **APIs REST**, y bases de datos como **MySQL** y **PostgreSQL**
+
+- 🌐 Construyendo soluciones escalables con **Spring Cloud**, **Spring Security** y **Angular**
+
+- 🤝 Apasionado por compartir conocimientos, mentoría y escribir código limpio y mantenible
+
+- 📫 Contacto: **jefferson.alquinga1998@gmail.com**
+
+<p align="center">
+  <a href="#english">🔝 Back to English</a>
 </p>
